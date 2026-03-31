@@ -21,7 +21,7 @@ bool cekprima(int n){
     return true;
 }
 
-// function untuk cek fibonacci
+// function untuk cek fibonacci       //ini untuk cek fibonacci ini yang paling bikin pusing
 bool cekfibonacci(int n) {
     int a = 0, b = 1, c;
 
