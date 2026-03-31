@@ -8,7 +8,7 @@ int pilihan;
 
 // Function untuk bilangan prima    //ini untuk fuction bilangan prima ini juga sama kek anj*** bikin pusing
 bool cekprima(int n){
-    if (n <= 1) {
+    if (n <= 1) {                               //ini pemakaian if
         return false;
     }
 
