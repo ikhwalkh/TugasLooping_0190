@@ -20,3 +20,5 @@ bool cekprima(int n){
     }
     return true;
 }
+
+// function untuk cek fibonacci
