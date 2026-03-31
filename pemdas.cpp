@@ -61,7 +61,7 @@ void tampilanfibonacci() {
     }
 }
 
-// menu 
+// menu                                        //ini buat memilih 
 void menu() {
     cout << "\n===== menu =====" << endl;
     cout << "1 cek bilangan prima" << endl;
