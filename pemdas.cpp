@@ -75,7 +75,7 @@ void menu() {
         menu();
         cin >> pilihan;
 
-        switch (pilihan) {
+        switch (pilihan) {         //ini switch toolong saya pusing
             case 1:
             inputangka();
             tampilanprima();
