@@ -13,7 +13,7 @@ bool cekprima(int n){
     }
 
     int i = 2;
-    while (i < n) {
+    while (i < n) {                            //ini pemakaian while
         if (n % i == 0) {
             return false;
         }
